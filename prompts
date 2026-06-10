@@ -6,13 +6,12 @@ Modify and delete existing objects.
 Display and manage multiple objects simultaneously.
 Automatic canvas refresh and object redrawing.
 Menu-driven user interface.
-Implementation of classic graphics algorithms.
+Implementation of classic/basic graphics algorithms.
 
 Technologies Used:
 Programming Language: C
 Data Structures: Arrays, Structures
 
 Applications:
-Educational demonstration of computer graphics concepts.
-Learning object management in graphics systems.
-Understanding geometric drawing algorithms and canvas-based rendering.
+should work in online compiler.
+basic and simple for project.
