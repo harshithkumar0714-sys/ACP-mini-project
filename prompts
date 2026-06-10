@@ -1,0 +1,18 @@
+This project is a simple 2D Graphics Editor developed using the C programming language. It provides a menu-driven interface that allows users to draw basic shapes such as circles, rectangles, lines, and triangles on a virtual canvas. Users can add, modify, delete, and display shapes easily. The project demonstrates the use of arrays, structures, functions, and basic graphics algorithms in C. It is designed to help understand fundamental concepts of computer graphics and object management.
+Key Features:
+Create circles, rectangles, lines, and triangles.
+Assign unique IDs to graphical objects.
+Modify and delete existing objects.
+Display and manage multiple objects simultaneously.
+Automatic canvas refresh and object redrawing.
+Menu-driven user interface.
+Implementation of classic graphics algorithms.
+
+Technologies Used:
+Programming Language: C
+Data Structures: Arrays, Structures
+
+Applications:
+Educational demonstration of computer graphics concepts.
+Learning object management in graphics systems.
+Understanding geometric drawing algorithms and canvas-based rendering.
